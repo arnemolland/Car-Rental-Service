@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da64c4b7-1855-4ec6-8fa6-6e58fcd5fee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Office.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oblig2/Offices.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Offices.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582321232434</updated>
-      <workItem from="1582321234402" duration="1532000" />
+      <workItem from="1582321234402" duration="3298000" />
     </task>
     <servers />
   </component>
@@ -85,22 +90,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582322030215" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582322872968">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582324638038">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582322872968" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582322872967">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582324638038" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582324638035">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582322872967" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582322872965">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582324638035" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582324638029">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582322872965" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582322872967">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582324638029" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582324638037">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582322872967" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582324638037" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582322010797">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

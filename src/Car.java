@@ -11,7 +11,5 @@ public class Car {
         this.carModel = carModel;
         this.carType = carType;
         availability = true;
-
-        System.out.println("The car " + carBrand + ", with license plate: " + licensePlate + " is now registered.");
      }
 }
