@@ -1,2 +1,2 @@
 # DAT109-Oblig2
- Compulsory assignment for DAT109
+A compulsory assignment for DAT109
