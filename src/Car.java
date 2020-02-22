@@ -3,15 +3,18 @@ public class Car {
     String carBrand = null;
     String carModel = null;
     String carType = null;
+    int price = 0;
     Boolean availability = false;
 
-    // Method to register a car
-     public Car(String licensePlate, String carBrand, String carModel, String carType) {
+    // Constructor method to register a car
+     public Car(String licensePlate, String carBrand, String carModel, int price, String carType) {
         this.licensePlate = licensePlate;
         this.carBrand = carBrand;
         this.carModel = carModel;
         this.carType = carType;
+        this.price = price;
         availability = true;
      }
+
 
 }
