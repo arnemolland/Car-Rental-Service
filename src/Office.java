@@ -21,4 +21,13 @@ public class Office {
     public void registerCar(Car car) {
         cars.add(car);
     }
+
+    // Method to remove cars from a office
+    public void removeCar(Car car) {
+        cars.remove(car);
+    }
+
+    public void rentCar() {
+
+    }
 }

@@ -11,6 +11,8 @@ public class Customer {
         this.customerAddress = customerAddress;
         this.customerPhone = customerPhone;
     }
+
+
 }
 
 
