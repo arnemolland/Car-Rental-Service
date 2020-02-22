@@ -1,7 +1,7 @@
 // TODO Add private users registration
-// TODO Make reservation possibleimport java.util.ArrayList;
+// TODO Make reservation possible
+    // TODO Check line 40, i want to print the  car brands
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class App {
@@ -29,7 +29,26 @@ public class App {
         stavangerOffice.registerCar(car5);
         stavangerOffice.registerCar(car6);
 
-        
+
+
+
+        // Reservation process
+        System.out.println("Welcome to Artin's Car Rental, please choose your location: \n 1: Bergen \n 2: Tromsø \n 3: Stavanger");
+        Scanner scanner = new Scanner(System.in);
+        int cityChoice = scanner.nextInt();
+
+        if (cityChoice == 1) {
+            System.out.println("You have chosen Bergen. These are the available cars at the moment.");
+            System.out.println(bergenOffice.cars);
+        } else if (cityChoice == 2) {
+            System.out.println("You have chosen Tromsø. These are the available cars at the moment.");
+            System.out.println(tromsoOffice.cars);
+        } else if (cityChoice == 3) {
+            System.out.println("You have chosen Stavanger. These are the available cars at the moment.");
+            System.out.println(stavangerOffice.cars);
+        } else {
+            System.out.println("WRONG");
+        }
 
     }
 }

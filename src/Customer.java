@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Customer {
     String firsName = null;
     String lastName = null;
@@ -12,6 +14,14 @@ public class Customer {
         this.customerPhone = customerPhone;
     }
 
+    // Method for registering a user
+    public void userRegistration() {
+        System.out.println("Please fill out your name, a address and you phone number");
+        Scanner scanner = new Scanner(System.in);
+        scan.nextLine();
+        String s = scan.nextLine();
+        scan.close();
+    }
 
 }
 

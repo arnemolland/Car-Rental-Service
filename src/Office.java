@@ -27,7 +27,4 @@ public class Office {
         cars.remove(car);
     }
 
-    public void rentCar() {
-
-    }
 }
