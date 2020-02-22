@@ -4,12 +4,14 @@ public class Customer {
     String customerAddress = null;
     int customerPhone = 0;
 
-    // Constructor method to register a customer
+    // Constructor method to create a customer
     public Customer(String firsName, String lastName, String customerAddress, int customerPhone) {
         this.firsName = firsName;
         this.lastName = lastName;
         this.customerAddress = customerAddress;
         this.customerPhone = customerPhone;
     }
-
 }
+
+
+
