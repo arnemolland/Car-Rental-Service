@@ -5,6 +5,7 @@ public class Car {
     String carType = null;
     Boolean availability = false;
 
+    // Method to register a car
      public Car(String licensePlate, String carBrand, String carModel, String carType) {
         this.licensePlate = licensePlate;
         this.carBrand = carBrand;
@@ -12,4 +13,5 @@ public class Car {
         this.carType = carType;
         availability = true;
      }
+
 }
