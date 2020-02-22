@@ -8,7 +8,7 @@ This is a compulsory assignment for the DAT109 subject and it is done by me alon
 
 ## Authors
 
-* **Artin Beyati** - *Initial work* 
+* **Artin Beyati** - *Everything* 
 
 ## Acknowledgments
 
