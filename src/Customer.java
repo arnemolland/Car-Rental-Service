@@ -15,6 +15,7 @@ public class Customer {
     }
 
     // Method for registering a user
+    /*
     public void userRegistration() {
         System.out.println("Please fill out your name, a address and you phone number");
         Scanner scanner = new Scanner(System.in);
@@ -22,6 +23,7 @@ public class Customer {
         String s = scan.nextLine();
         scan.close();
     }
+     */
 
 }
 

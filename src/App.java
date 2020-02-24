@@ -29,7 +29,7 @@ public class App {
         stavangerOffice.registerCar(car5);
         stavangerOffice.registerCar(car6);
 
-
+        // User registration
 
 
         // Reservation process
