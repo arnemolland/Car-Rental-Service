@@ -13,7 +13,7 @@ public class App {
         Car car3 = new Car("G1H2I3", "Porsche", "718", 10000);
         Car car4 = new Car("J1K2L3", "Tesla", "Cybertruck", 7000);
         Car car5 = new Car("M1N2O3", "Mini", "Cooper", 4000);
-        Car car6 = new Car("P1Q2R3", "Ford", "Transit custom", 4000);
+        Car car6 = new Car("P1Q2R3", "Ford", "Transit wit da rims", 4000);
 
         // Creating offices
         Office bergenOffice = new Office("Artin Car Rental Bergen", 12345678, "McExample St.", 1);
