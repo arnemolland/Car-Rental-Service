@@ -1,12 +1,14 @@
+package store;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class Office {
     List<Car> cars = new ArrayList<Car>();
-    String officeName = null;
-    int officePhone = 0;
-    String officeAddress = null;
-    int officeNumber = 0;
+    String officeName;
+    int officePhone;
+    String officeAddress;
+    int officeNumber;
 
     // Constructor method to create a office
     public Office(String officeName, int officePhone, String officeAddress, int officeNumber) {
@@ -25,6 +27,19 @@ public class Office {
     // Method to remove cars from a office
     public void removeCar(Car car) {
         cars.remove(car);
+    }
+
+    public String toString() {
+        String line = "==========";
+        StringBuilder builder = new StringBuilder();
+
+        builder.append(line + '\n');
+
+        for (Car car : cars) {
+            builder.append(String.format("%s\n%s\n", car.toString(), line));
+        }
+
+        return builder.toString();
     }
 
 }
